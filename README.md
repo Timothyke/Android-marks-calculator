@@ -18,11 +18,6 @@ This is a simple Android application built with Java in Android Studio. It allow
 
 ---
 
-## 📱 Screenshots
-
-*(Add screenshots here once available)*
-
----
 
 ## 🚀 How to Run the App
 
